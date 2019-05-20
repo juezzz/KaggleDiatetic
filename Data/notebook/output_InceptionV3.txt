@@ -1,0 +1,226 @@
+Epoch 0/9
+----------
+Batch 50 Loss 0.8409
+Batch 100 Loss 0.7189
+Batch 150 Loss 0.7586
+Batch 200 Loss 0.8850
+Batch 250 Loss 0.9920
+Batch 300 Loss 0.6323
+Batch 350 Loss 0.5242
+Batch 400 Loss 0.3079
+Batch 450 Loss 0.6452
+Batch 500 Loss 0.2865
+Batch 550 Loss 0.6909
+Batch 600 Loss 0.5049
+Batch 650 Loss 1.4200
+train Loss: 0.6437 Acc: 0.8773 F1: 0.9027 AUC 0.8018
+val Loss: 0.4302 Acc: 0.9554 F1: 0.9570 AUC 0.8024
+-----
+Epoch 1/9
+----------
+Batch 50 Loss 0.6574
+Batch 100 Loss 0.2953
+Batch 150 Loss 0.6869
+Batch 200 Loss 0.1758
+Batch 250 Loss 0.2264
+Batch 300 Loss 0.5584
+Batch 350 Loss 0.2949
+Batch 400 Loss 0.3762
+Batch 450 Loss 0.1947
+Batch 500 Loss 0.9833
+Batch 550 Loss 0.4043
+Batch 600 Loss 0.3893
+Batch 650 Loss 0.1578
+train Loss: 0.4014 Acc: 0.9265 F1: 0.9381 AUC 0.8879
+val Loss: 0.3277 Acc: 0.9413 F1: 0.9487 AUC 0.8627
+-----
+Epoch 2/9
+----------
+Batch 50 Loss 0.1060
+Batch 100 Loss 0.9383
+Batch 150 Loss 0.1540
+Batch 200 Loss 0.2336
+Batch 250 Loss 0.0623
+Batch 300 Loss 0.3083
+Batch 350 Loss 0.2588
+Batch 400 Loss 0.9789
+Batch 450 Loss 0.1980
+Batch 500 Loss 0.2964
+Batch 550 Loss 0.2477
+Batch 600 Loss 0.1451
+Batch 650 Loss 0.6029
+train Loss: 0.3338 Acc: 0.9334 F1: 0.9436 AUC 0.9060
+val Loss: 0.2510 Acc: 0.9202 F1: 0.9346 AUC 0.8871
+-----
+Epoch 3/9
+----------
+Batch 50 Loss 0.0969
+Batch 100 Loss 0.0762
+Batch 150 Loss 0.0652
+Batch 200 Loss 0.1411
+Batch 250 Loss 0.0687
+Batch 300 Loss 0.6228
+Batch 350 Loss 0.1935
+Batch 400 Loss 0.1072
+Batch 450 Loss 0.1586
+Batch 500 Loss 0.0850
+Batch 550 Loss 0.0476
+Batch 600 Loss 0.1341
+Batch 650 Loss 0.0703
+train Loss: 0.2381 Acc: 0.9525 F1: 0.9583 AUC 0.9348
+val Loss: 0.2565 Acc: 0.9403 F1: 0.9489 AUC 0.8976
+-----
+Epoch 4/9
+----------
+Batch 50 Loss 0.0167
+Batch 100 Loss 0.0840
+Batch 150 Loss 0.2435
+Batch 200 Loss 0.1446
+Batch 250 Loss 0.2955
+Batch 300 Loss 0.0319
+Batch 350 Loss 0.2969
+Batch 400 Loss 0.0337
+Batch 450 Loss 0.1655
+Batch 500 Loss 0.0158
+Batch 550 Loss 0.1487
+Batch 600 Loss 0.1548
+Batch 650 Loss 0.0720
+train Loss: 0.1864 Acc: 0.9610 F1: 0.9652 AUC 0.9507
+val Loss: 0.2891 Acc: 0.9108 F1: 0.9287 AUC 0.9047
+-----
+Epoch 5/9
+----------
+Batch 50 Loss 0.1448
+Batch 100 Loss 0.0599
+Batch 150 Loss 0.1002
+Batch 200 Loss 0.1130
+Batch 250 Loss 0.0463
+Batch 300 Loss 0.0585
+Batch 350 Loss 0.0840
+Batch 400 Loss 0.0308
+Batch 450 Loss 0.1418
+Batch 500 Loss 0.0140
+Batch 550 Loss 0.0634
+Batch 600 Loss 0.1015
+Batch 650 Loss 0.0779
+train Loss: 0.1316 Acc: 0.9693 F1: 0.9721 AUC 0.9654
+val Loss: 0.2634 Acc: 0.9487 F1: 0.9554 AUC 0.9117
+-----
+Epoch 6/9
+----------
+Batch 50 Loss 0.0374
+Batch 100 Loss 0.0077
+Batch 150 Loss 0.1950
+Batch 200 Loss 0.0642
+Batch 250 Loss 0.0548
+Batch 300 Loss 0.0337
+Batch 350 Loss 0.0431
+Batch 400 Loss 0.1473
+Batch 450 Loss 0.0081
+Batch 500 Loss 0.1497
+Batch 550 Loss 0.0096
+Batch 600 Loss 0.2759
+Batch 650 Loss 0.0564
+train Loss: 0.1090 Acc: 0.9737 F1: 0.9759 AUC 0.9711
+val Loss: 0.3382 Acc: 0.9423 F1: 0.9504 AUC 0.8987
+-----
+Epoch 7/9
+----------
+Batch 50 Loss 0.1108
+Batch 100 Loss 0.0513
+Batch 150 Loss 0.0194
+Batch 200 Loss 0.0422
+Batch 250 Loss 0.0135
+Batch 300 Loss 0.0764
+Batch 350 Loss 0.0110
+Batch 400 Loss 0.3019
+Batch 450 Loss 0.0894
+Batch 500 Loss 0.3508
+Batch 550 Loss 0.1242
+Batch 600 Loss 0.1268
+Batch 650 Loss 0.0532
+train Loss: 0.0784 Acc: 0.9807 F1: 0.9819 AUC 0.9798
+val Loss: 0.3328 Acc: 0.9644 F1: 0.9671 AUC 0.9007
+-----
+Epoch 8/9
+----------
+Batch 50 Loss 0.0288
+Batch 100 Loss 0.0168
+Batch 150 Loss 0.1070
+Batch 200 Loss 0.0360
+Batch 250 Loss 0.0346
+Batch 300 Loss 0.0318
+Batch 350 Loss 0.3735
+Batch 400 Loss 0.0305
+Batch 450 Loss 0.1271
+Batch 500 Loss 0.0067
+Batch 550 Loss 0.0655
+Batch 600 Loss 0.0747
+Batch 650 Loss 0.0081
+train Loss: 0.0653 Acc: 0.9848 F1: 0.9856 AUC 0.9846
+val Loss: 0.3200 Acc: 0.9628 F1: 0.9660 AUC 0.9095
+-----
+Epoch 9/9
+----------
+Batch 50 Loss 0.0040
+Batch 100 Loss 0.0803
+Batch 150 Loss 0.0793
+Batch 200 Loss 0.0552
+Batch 250 Loss 0.0111
+Batch 300 Loss 0.0327
+Batch 350 Loss 0.0180
+Batch 400 Loss 0.0772
+Batch 450 Loss 0.0361
+Batch 500 Loss 0.0835
+Batch 550 Loss 0.0261
+Batch 600 Loss 0.0021
+Batch 650 Loss 0.0358
+train Loss: 0.0561 Acc: 0.9869 F1: 0.9875 AUC 0.9867
+val Loss: 0.4133 Acc: 0.9665 F1: 0.9685 AUC 0.8921
+-----
+Training complete in 635m 54s
+Best Val F1: 0.968506
+
+Evaluating test_kaggle
+test_kaggle Loss: 0.2853 Acc: 0.9750 F1: 0.9761
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99     42462
+           1       0.72      0.87      0.79      2374
+
+   micro avg       0.97      0.97      0.97     44836
+   macro avg       0.86      0.93      0.89     44836
+weighted avg       0.98      0.97      0.98     44836
+
+[[41649   813]
+ [  309  2065]]
+AUC: 0.9253
+
+Evaluating test_wa
+test_wa Loss: 9.2468 Acc: 0.1111 F1: 0.2000
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00         0
+           1       1.00      0.11      0.20        45
+
+   micro avg       0.11      0.11      0.11        45
+   macro avg       0.50      0.06      0.10        45
+weighted avg       1.00      0.11      0.20        45
+
+[[ 0  0]
+ [40  5]]
+ 
+Evaluating test_deye
+test_deye Loss: 1.3113 Acc: 0.4474 F1: 0.4415
+              precision    recall  f1-score   support
+
+           0       0.40      0.33      0.36        18
+           1       0.48      0.55      0.51        20
+
+   micro avg       0.45      0.45      0.45        38
+   macro avg       0.44      0.44      0.44        38
+weighted avg       0.44      0.45      0.44        38
+
+[[ 6 12]
+ [ 9 11]]
+-----
